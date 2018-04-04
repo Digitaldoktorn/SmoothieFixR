@@ -1,0 +1,145 @@
+body {
+  background-color: beige;
+  margin: 0;
+}
+
+h1 {
+  color: white ;
+  background-color: navy;
+  text-align: center;
+  font-family: Georgia,serif;
+  font-style: normal;
+  font-weight: normal;
+  font-kerning:normal;
+  padding: 2%;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-family: Arial
+}
+h4 {
+  color: black;
+  text-align: center;
+  font-family: Arial;
+  font-weight: normal
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: Arial;
+  line-height: 30px
+}
+ul {
+  color: black;
+  text-align: left;
+  font-family: Arial;
+  line-height: 30px
+}
+
+#container {
+  max-width: 900px;
+  min-height: 900px;
+  margin: 2% auto;
+  /* padding: 3%; */
+  background-image: url(./img/smoothie.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  box-shadow: 10px 10px 15px black;
+}
+
+  #select {
+    text-align: left;
+  }
+
+  #app {
+    margin: 2% auto;
+    padding: 2%;
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 450px;
+    min-height:800px
+  }
+
+  #frukt1 {
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #EC4545;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #frukt2 {
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #EA3939;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #notter_etc{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #D72F2F;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #proteiner{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #DA1D1D;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #vatska{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #D00F0F;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #fetter_oljor{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #C90202;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #kryddor{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #BE1010;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
+  #sotningsmedel{
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background-color: #B60606;
+    text-align: center;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3%
+  }
